@@ -3,9 +3,8 @@ A practice website to store projects inspired by/based on my completed freeCodeC
 <br/ >
 <html>
   <body>
-    <h1>NotFancy:</h1>
-    <h2>Fried Egg Tips</h2>
-    
+    <h1>NotFancy: Fried Egg Tips</h1>
+    place img here.
     <br/ >
     <p>
     Place text here. Intro paragraph. Hook.
