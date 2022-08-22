@@ -18,7 +18,7 @@
         <li>Olive oil</li>
         <li>Rosemary</li>
         <li>Garlic powder</li>
-        <li>plate</li>
+        <li>Plate</li>
       </ul>
       </p>
     </section>
