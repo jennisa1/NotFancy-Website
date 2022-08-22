@@ -15,9 +15,9 @@
       <ul>
         <li>1 egg</li>
         <li>Frying pan</li>
-        <li>Olive oil</li>
-        <li>Rosemary</li>
-        <li>Garlic powder</li>
+        <li>3 tbsp Olive oil</li>
+        <li>1 tsp Rosemary</li>
+        <li>1 tbsp Garlic powder</li>
         <li>Plate</li>
       </ul>
       </p>
