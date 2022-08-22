@@ -17,7 +17,7 @@
         <li>Frying pan</li>
         <li>3 tbsp Olive oil</li>
         <li>1 tsp Rosemary</li>
-        <li>1 tbsp Garlic powder</li>
+        <li>1/2 tbsp Garlic powder</li>
         <li>Plate</li>
       </ul>
       </p>
