@@ -1,2 +1,2 @@
 # NotFancy-Website 🎀💻
-A portfolio website to store projects inspired by/based on my completed freeCodeCamp Projects.
+A portfolio website to store projects loosely inspired by my completed freeCodeCamp Projects.
