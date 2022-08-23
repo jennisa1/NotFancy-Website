@@ -38,8 +38,8 @@
         <li>Once the egg is cooked (indicated by lack of runny-ness and firm shape), turn off the stove and flip egg over.
         This is to ensure no sides of the egg will be burnt.</li>
         <h3>Step 6</h3>
-        <li>Keep the frying pan on the stove despite it being off. Flip egg over after 1-3 minutes to check if both sides
-        are cooked to your liking.</li>
+        <li>Keep the frying pan on the stove despite it being off. Flip egg over after 1-2 minutes. Egg white should be
+        semi-glossy and yoke should be cooked and flattened. No burned edges or burned yoke should be present.</li>
         <h3>Step 7</h3>
         <li>Serve on a plate and enjoy!</li>
       </ol>
