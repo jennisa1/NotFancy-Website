@@ -23,8 +23,8 @@
       </p>
     </section>
     <section>
-      <h2>Recipe</h2>
-      <h3>Serving Size: 1</h3>
+      <h2>Recipe
+      Serving Size: 1</h2>
       <ol>
         <h4>Step 1</h4>
         <li>Before turning on the stove, sprinkle 1 tsp of rosemary on the fry pan followed by 3 tbsp of olive oil.</li>
