@@ -1,6 +1,24 @@
 <html>
   <head>
-  <!--TODO: style CSS div.gallery code at top{ -->
+  <style>
+  div.gallery {
+margin: 3px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 170px;
+}
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
       
   <body>
     <h1>NotFancy: Fried Egg Tips 🍳</h1>
@@ -50,7 +68,7 @@
       </ol>
     </section>
     <section>
-    <!--TODO: Fried Egg Dishes Gallery-->
+    
       </section>
     <section>
     <!--TODO: Favorite cooked egg style poll-->
