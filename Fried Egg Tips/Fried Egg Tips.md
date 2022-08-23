@@ -28,7 +28,7 @@
         <h3>Step 1</h3>
         <li>Before turning on the stove, sprinkle 1 tsp of rosemary on the fry pan followed by 3 tbsp of olive oil.
         Spread oil to cover bottom of frying pan. 
-        Tip: If pan is drenched with too much oil, take a paper towel and press some oil out of pan.</li>
+          <i>Tip:</i> If pan is drenched with too much oil, take a paper towel and press some oil out of pan.</li>
         <h3>Step 2</h3>
         <li>Crack 1 egg on frying pan.</li>
         <h3>Step 3</h3>
