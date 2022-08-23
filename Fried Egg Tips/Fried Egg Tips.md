@@ -10,6 +10,7 @@
       Don't worry, I have a few tips--along with a favorite fried egg recipe of mine--that will help you out below. Let's get started! 
     </p>
     </section>
+    <br/ >
     <section>
       <h2>Ingredients</h2>
       <h3>You Will Need:</h3>
