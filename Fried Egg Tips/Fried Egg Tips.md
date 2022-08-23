@@ -77,6 +77,7 @@ div.desc {
     <br/ >
     <section>
       <h2>Fried Egg Dishes</h2>
+      <!--TODO: Fix Image Gallery
         <div class="gallery">
   <a target="_blank" href="https://github.com/jennisa1/NotFancy-Website/blob/main/Images/Kimchi%20Fried%20Rice.png?raw=true">
     <img src="https://github.com/jennisa1/NotFancy-Website/blob/main/Images/Kimchi%20Fried%20Rice.png?raw=true" alt="Kimchi Fried Rice" align="left" width="200" height="200">
@@ -118,7 +119,7 @@ div.desc {
   </a>
   <div class="gallery">Avocado Egg Sandwich</div>
 </div>
-      </section>
+      </section>-->
     <section>
     <!--TODO: Favorite cooked egg style poll-->
     </section>
