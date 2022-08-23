@@ -1,4 +1,7 @@
-<html>
+<!DOCTYPE html>
+
+<html lang="en">English
+  <meta charset="UTF-8">
   <head>
   <style>
      div.gallery {
