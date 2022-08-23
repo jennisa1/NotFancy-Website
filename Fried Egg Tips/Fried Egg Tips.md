@@ -71,6 +71,7 @@ div.desc {
         <li>Serve on a plate and enjoy!</li>
       </ol>
     </section>
+    <br/ >
     <section>
       <h2>Fried Egg Dishes</h2>
         <div class="gallery">
