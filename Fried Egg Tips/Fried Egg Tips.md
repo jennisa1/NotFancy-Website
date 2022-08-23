@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-
+<!--TODO: Fix CSS
 <html lang="en">English
   <meta charset="UTF-8">
   <head>
@@ -25,7 +25,7 @@ div.desc {
   text-align: left;
 }
     
-    </style>
+    </style>-->
   </head>   
   <body>
     <h1>NotFancy: Fried Egg Tips 🍳</h1>
