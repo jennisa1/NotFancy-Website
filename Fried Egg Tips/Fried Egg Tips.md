@@ -97,21 +97,21 @@ div.desc {
 
 <div class="gallery">
   <a target="_blank" href="https://github.com/jennisa1/NotFancy-Website/blob/main/Images/Egg%20Toast.jpg?raw=true">
-    <img src="https://github.com/jennisa1/NotFancy-Website/blob/main/Images/Egg%20Toast.jpg?raw=true" alt="Egg Toast" img align="bottom left" width="200" height="200">
+    <img src="https://github.com/jennisa1/NotFancy-Website/blob/main/Images/Egg%20Toast.jpg?raw=true" alt="Egg Toast" img align="left" width="200" height="200">
   </a>
   <div class="gallery">Egg Toast</div>
 </div>
 
   <div class="gallery">
   <a target="_blank" href="https://github.com/jennisa1/NotFancy-Website/blob/main/Images/Egg%20Muffins.png?raw=true">
-    <img src="https://github.com/jennisa1/NotFancy-Website/blob/main/Images/Egg%20Muffins.png?raw=true" alt="Egg Muffins" img align="left" width="200" height="200">
+    <img src="https://github.com/jennisa1/NotFancy-Website/blob/main/Images/Egg%20Muffins.png?raw=true" alt="Egg Muffins" img align="middle" width="200" height="200">
   </a>
   <div class="gallery">Egg Muffins</div>
 </div>
 
   <div class="gallery">
   <a target="_blank" href="https://github.com/jennisa1/NotFancy-Website/blob/main/Images/Avocado%20Egg%20Sandwich.jpg?raw=true">
-    <img src="https://github.com/jennisa1/NotFancy-Website/blob/main/Images/Avocado%20Egg%20Sandwich.jpg?raw=true" alt="Avocado Egg Sandwich" img align="left" width="200" height="200">
+    <img src="https://github.com/jennisa1/NotFancy-Website/blob/main/Images/Avocado%20Egg%20Sandwich.jpg?raw=true" alt="Avocado Egg Sandwich" img align="right" width="200" height="200">
   </a>
   <div class="gallery">Avocado Egg Sandwich</div>
 </div>
