@@ -76,14 +76,14 @@ div.desc {
       <h2>Fried Egg Dishes</h2>
         <div class="gallery">
   <a target="_blank" href="https://github.com/jennisa1/NotFancy-Website/blob/main/Images/Kimchi%20Fried%20Rice.png?raw=true">
-    <img src="https://github.com/jennisa1/NotFancy-Website/blob/main/Images/Kimchi%20Fried%20Rice.png?raw=true" alt="Kimchi fried rice" width="200" height="200">
+    <img src="https://github.com/jennisa1/NotFancy-Website/blob/main/Images/Kimchi%20Fried%20Rice.png?raw=true" alt="Kimchi fried rice" img align="left" width="200" height="200">
   </a>
   <div class="gallery">Kimchi Fried Rice</div>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="https://github.com/jennisa1/NotFancy-Website/blob/main/Images/Fried%20Rice.png?raw=true">
-    <img src="https://github.com/jennisa1/NotFancy-Website/blob/main/Images/Fried%20Rice.png?raw=true" alt="Fried Rice" width="200"     height="200">       
+    <img src="https://github.com/jennisa1/NotFancy-Website/blob/main/Images/Fried%20Rice.png?raw=true" alt="Fried Rice" img align="left" width="200"     height="200">       
   </a>
   <div class="gallery">Fried Rice</div>
 </div>
