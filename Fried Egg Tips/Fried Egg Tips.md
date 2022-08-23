@@ -7,17 +7,21 @@ margin: 3px;
   float: left;
   width: 170px;
 }
+    
 div.gallery:hover {
   border: 1px solid #777;
 }
+    
 div.gallery img {
   width: 100%;
   height: auto;
 }
+    
 div.desc {
   padding: 15px;
   text-align: center;
 }
+    
     </style>
   </head>   
   <body>
@@ -68,6 +72,7 @@ div.desc {
       </ol>
     </section>
     <section>
+      <h2>Fried Egg Dishes</h2>
         <div class="gallery">
   <a target="_blank" href="https://github.com/jennisa1/NotFancy-Website/blob/main/Images/Kimchi%20Fried%20Rice.png?raw=true">
     <img src="https://github.com/jennisa1/NotFancy-Website/blob/main/Images/Kimchi%20Fried%20Rice.png?raw=true" alt="Kimchi fried rice" width="600" height="400">
