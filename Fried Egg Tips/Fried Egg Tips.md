@@ -5,7 +5,7 @@
 margin: 3px;
   border: 1px solid #ccc;
   float: left;
-  width: 170px;
+  width: 180px;
 }
     
 div.gallery:hover {
@@ -19,7 +19,7 @@ div.gallery img {
     
 div.desc {
   padding: 15px;
-  text-align: center;
+  text-align: left;
 }
     
     </style>
