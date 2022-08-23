@@ -83,14 +83,14 @@ div.desc {
 
 <div class="gallery">
   <a target="_blank" href="https://github.com/jennisa1/NotFancy-Website/blob/main/Images/Fried%20Rice.png?raw=true">
-    <img src="https://github.com/jennisa1/NotFancy-Website/blob/main/Images/Fried%20Rice.png?raw=true" alt="Fried Rice" align="middle" width="200"     height="200">       
+    <img src="https://github.com/jennisa1/NotFancy-Website/blob/main/Images/Fried%20Rice.png?raw=true" alt="Fried Rice" align="left" width="200"     height="200">       
   </a>
   <div class="gallery">Fried Rice</div>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="https://github.com/jennisa1/NotFancy-Website/blob/main/Images/Korean%20Egg%20Roll.jpg?raw=true">
-    <img src="https://github.com/jennisa1/NotFancy-Website/blob/main/Images/Korean%20Egg%20Roll.jpg?raw=true" alt="Korean Egg Roll" img align="right" width="200" height="200">
+    <img src="https://github.com/jennisa1/NotFancy-Website/blob/main/Images/Korean%20Egg%20Roll.jpg?raw=true" alt="Korean Egg Roll" align="left" width="200" height="200">
   </a>
   <div class="gallery">Egg Roll</div>
 </div>
