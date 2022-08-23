@@ -46,7 +46,15 @@
         <li>Serve on a plate and enjoy!</li>
       </ol>
     </section>
-    <!--TODO: New Section + Do/Avoid List-->
+    <section>
+    <!--TODO: Fried Egg Dishes Gallery-->
+      </section>
+    <section>
+    <!--TODO: Favorite cooked egg style poll-->
+    </section>
+    <section>
+    <!--TODO: Closing and contact info-->
+    </section>
    </main>
   </body>
 </html>
