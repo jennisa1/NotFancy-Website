@@ -10,7 +10,7 @@
       Don't worry, I have a few tips--along with a favorite fried egg recipe of mine--that will help you out below. Let's get started! 
     </p>
     </section>
-    <br/ >
+    <a href=https://github.com/jennisa1/NotFancy-Website><img src="https://github.com/jennisa1/NotFancy-Website/blob/main/Images/cute%20egg.png?raw=true" width="500 px" height="400 px" alt="cute egg"/></a>   
     <section>
       <h2>Ingredients</h2>
       <h3>You Will Need:</h3>
@@ -24,7 +24,6 @@
       </ul>
       </p>
     </section>
-    <br/ >
     <section>
       <h2>Recipe</h2>
       <h3>Serving Size: 1</h3>
