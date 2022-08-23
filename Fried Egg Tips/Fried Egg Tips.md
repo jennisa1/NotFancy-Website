@@ -1,4 +1,8 @@
 <html>
+  <head>
+  <style>
+  div.gallery {
+      
   <body>
     <h1>NotFancy: Fried Egg Tips 🍳</h1>
   <main>
