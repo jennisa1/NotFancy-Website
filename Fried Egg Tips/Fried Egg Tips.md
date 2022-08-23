@@ -5,8 +5,9 @@
   <main>
   <section>
     <h2> The Art of Fried Eggs</h2>  
-    <p>
-      Ever wonder how to make fried eggs look and taste as good as they do in photos? <!--TODO: add two more sentences here to hook the reader in-->
+    <p> <!--TODO: add hook-->
+      Ever wonder how to make fried eggs look and taste as good as they do in photos? Or do you share the common struggle of burning your eggs?
+      Don't worry, I have a few tips--along with a favorite fried egg recipe of mine--that will help you out below. Let's get started! 
     </p>
     </section>
     <section>
@@ -17,10 +18,13 @@
         <li>Frying pan</li>
         <li>3 tbsp Olive oil</li>
         <li>1 tsp Rosemary</li>
-        <li>1/2 tbsp Garlic powder</li>
+        <li>Garlic powder</li>
         <li>Plate</li>
       </ul>
       </p>
+    </section>
+    <section>
+      <h2></h2>
     </section>
    </main>
   </body>
