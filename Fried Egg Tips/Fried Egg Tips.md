@@ -76,7 +76,7 @@ div.desc {
       <h2>Fried Egg Dishes</h2>
         <div class="gallery">
   <a target="_blank" href="https://github.com/jennisa1/NotFancy-Website/blob/main/Images/Kimchi%20Fried%20Rice.png?raw=true">
-    <img src="https://github.com/jennisa1/NotFancy-Website/blob/main/Images/Kimchi%20Fried%20Rice.png?raw=true" alt="Kimchi fried rice" width="600" height="400">
+    <img src="https://github.com/jennisa1/NotFancy-Website/blob/main/Images/Kimchi%20Fried%20Rice.png?raw=true" alt="Kimchi fried rice" width="400" height="400">
   </a>
   <div class="gallery">Kimchi Fried Rice</div>
 </div>
