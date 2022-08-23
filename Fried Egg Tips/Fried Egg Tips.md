@@ -28,14 +28,14 @@
         <h3>Step 1</h3>
         <li>Before turning on the stove, sprinkle 1 tsp of rosemary on the fry pan followed by 3 tbsp of olive oil.
         Spread oil to cover bottom of frying pan. 
-          <i>Tip:</i> If pan is drenched with too much oil, take a paper towel and press some oil out of pan.</li>
+          <i>Tip</i>: If pan is drenched with too much oil, take a paper towel and press some oil out of pan.</li>
         <h3>Step 2</h3>
         <li>Crack 1 egg on frying pan.</li>
         <h3>Step 3</h3>
         <li>Proceed to turn on stove on maximum heat and let egg cook.</li>
         <h3>Step 4</h3>
         <li>As egg begins to cook, sprinkle a light dusting of garlic powder on top.
-        Tip: Great for those who are not fond of the egg yoke taste or the standalone flavor of eggs in general.</li>
+          <i>Tip</i>: Great for those who are not fond of the egg yoke taste or the standalone flavor of eggs in general.</li>
         <h3>Step 5</h3>
         <li>Once the egg is cooked (indicated by lack of runny-ness and firm shape), turn off the stove and flip egg over.
         This is to ensure no sides of the egg will be burnt.</li>
