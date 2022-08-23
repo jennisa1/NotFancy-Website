@@ -28,7 +28,7 @@
         <h3>Step 1</h3>
         <li>Before turning on the stove, sprinkle 1 tsp of rosemary on the fry pan followed by 3 tbsp of olive oil.</li>
         <h3>Step 2</h3>
-        <li>Crack 1 egg on the frying pan.</li>
+        <li>Crack 1 egg on frying pan.</li>
         <h3>Step 3</h3>
         <li>Proceed to turn on stove on maximum heat and let egg cook.</li>
         <h3>Step 4</h3>
