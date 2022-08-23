@@ -1,7 +1,7 @@
 <html>
   <head>
   <style>
-  div.gallery {
+  <!--TODO: CSS div.gallery code at top{ -->
       
   <body>
     <h1>NotFancy: Fried Egg Tips 🍳</h1>
