@@ -35,11 +35,11 @@ div.desc {
     <a href=https://github.com/jennisa1/NotFancy-Website><img src="https://github.com/jennisa1/NotFancy-Website/blob/main/Images/Egg%20pan%202.png?raw=true" width="600 px" height="500 px" alt="Egg pan 2" img align="right"/></a>   
     <p> <!--TODO: add hook-->
       Ever wonder how to make fried eggs look and taste as good as they do in photos? Or do you share the common struggle of burning your eggs?
-      Don't worry, I have a few tips--along with a favorite fried egg recipe of mine--that will help you out below. Let's get started! </p>
+      Don't worry, I have a few tips--along with my favorite fried egg recipe--which can help you out. Let's get started! </p>
     </section>  
     <section>
       <h2>Ingredients</h2>
-      <h3>You Will Need:</h3>
+      <h3><i>You Will Need<i>:</h3>
       <ul>
         <li>1 egg</li>
         <li>Frying pan</li>
@@ -67,7 +67,8 @@ div.desc {
           that particular taste.</li>
         <h3>Step 5</h3>
         <li>Once the egg is cooked (indicated by lack of runny-ness and firm shape), turn off the stove and flip the 
-          egg over.  <i>Tip</i>: This step helps to prevent both sides of the egg from becoming burned.</li>
+          egg over.  <i>Tip</i>: Thurning off the stove once one side is cooked prevents either side of the egg from 
+          becoming burned.</li>
         <h3>Step 6</h3>
         <li>Keep the frying pan on the stove that has remained off. After 1-1.5 minutes, flip the egg over. The fried
           egg should now be cooked on both sides without any burned center or edges.</li>
