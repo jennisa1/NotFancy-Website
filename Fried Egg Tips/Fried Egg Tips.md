@@ -67,7 +67,7 @@ div.desc {
           that particular taste.</li>
         <h3>Step 5</h3>
         <li>Once the egg is cooked (indicated by lack of runny-ness and firm shape), turn off the stove and flip the 
-          egg over.  <i>Tip</i> This step helps to prevent both sides of the egg from becoming burned.</li>
+          egg over.  <i>Tip</i>: This step helps to prevent both sides of the egg from becoming burned.</li>
         <h3>Step 6</h3>
         <li>Keep the frying pan on the stove that has remained off. After 1-1.5 minutes, flip the egg over. The fried
           egg should now be cooked on both sides without any burned center or edges.</li>
