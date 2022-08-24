@@ -1,35 +1,9 @@
 <!DOCTYPE html>
 
-<html lang="en">English
+<html lang="en">
   <meta charset="UTF-8">
   <head>
   <style>
-    <!--Fix CSS
-<style>
-     div.gallery {
-margin: 3px;
-  border: 1px solid #ccc;
-  float: left;
-  width: 180px;
-}
-    
-div.gallery:hover {
-  border: 1px solid #777;
-}
-    
-div.gallery img {
-  width: 100%;
-  height: auto;
-}
-    
-div.desc {
-  padding: 15px;
-  text-align: left;
-}
-    
-    </style>-->
-  </head> 
-    <style>
     h1 {
       text-align; center;
     }
