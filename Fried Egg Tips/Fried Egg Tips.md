@@ -56,20 +56,21 @@ div.desc {
         <h3>Step 1</h3>
         <li>Before turning on the stove, sprinkle 1 tsp of rosemary on the fry pan followed by 3 tbsp of olive oil.
         Spread oil to cover bottom of frying pan. 
-          <i>Tip</i>: If pan is drenched with too much oil, take a paper towel and press some oil out of pan.</li>
+          <i>Tip</i>: If there is too much oil on the pan, take a paper towel and dab excess off.</li>
         <h3>Step 2</h3>
-        <li>Crack 1 egg on frying pan.</li>
+        <li>Crack 1 egg on the frying pan.</li>
         <h3>Step 3</h3>
-        <li>Proceed to turn on stove on maximum heat and let egg cook.</li>
+        <li>Proceed to turn on the stove on maximum heat. The egg will now begin to cook.</li>
         <h3>Step 4</h3>
-        <li>As egg begins to cook, sprinkle a light dusting of garlic powder on top.
-          <i>Tip</i>: Great for those who are not fond of the egg yoke taste or the standalone flavor of eggs in general.</li>
+        <li>Sprinkle a light dusting of garlic powder as the egg is cooking.
+          <i>Tip</i>: Using garlic powder helps to mask the organic flavor of eggs for those who are not fond of 
+          that particular taste.</li>
         <h3>Step 5</h3>
-        <li>Once the egg is cooked (indicated by lack of runny-ness and firm shape), turn off the stove and flip egg over.
-        This is to ensure no sides of the egg will be burnt.</li>
+        <li>Once the egg is cooked (indicated by lack of runny-ness and firm shape), turn off the stove and flip the 
+          egg over.  <i>Tip</i> This step helps to prevent both sides of the egg from becoming burned.</li>
         <h3>Step 6</h3>
-        <li>Keep the frying pan on the stove despite it being off. Flip egg over after 1-2 minutes. Egg white should be
-        semi-glossy and yoke should be cooked and flattened. No burned edges or burned yoke should be present.</li>
+        <li>Keep the frying pan on the stove that has remained off. After 1-1.5 minutes, flip the egg over. The fried
+          egg should now be cooked on both sides without any burned center or edges.</li>
         <h3>Step 7</h3>
         <li>Serve on a plate and enjoy!</li>
       </ol>
