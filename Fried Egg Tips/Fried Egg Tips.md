@@ -4,10 +4,6 @@
   <meta charset="UTF-8">
   <head>
   <style>
-  h1 {
-      text-align; center;
-    }
-  </style>
     <!--Fix CSS
 <style>
      div.gallery {
@@ -32,7 +28,12 @@ div.desc {
 }
     
     </style>-->
-  </head>   
+  </head> 
+    <style>
+    h1 {
+      text-align; center;
+    }
+  </style>
   <body>
     <h1>NotFancy: Fried Egg Tips 🍳</h1>
   <main>
