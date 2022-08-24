@@ -39,7 +39,7 @@ div.desc {
     </section>  
     <section>
       <h2>Ingredients</h2>
-      <h3><i>You Will Need<i>:</h3>
+      <h3>You Will Need:</h3>
       <ul>
         <li>1 egg</li>
         <li>Frying pan</li>
