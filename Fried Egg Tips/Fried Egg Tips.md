@@ -1,9 +1,15 @@
 <!DOCTYPE html>
-<!--TODO: Fix CSS
+
 <html lang="en">English
   <meta charset="UTF-8">
   <head>
   <style>
+  h1 {
+      text-align; center;
+    }
+  </style>
+    <!--Fix CSS
+<style>
      div.gallery {
 margin: 3px;
   border: 1px solid #ccc;
