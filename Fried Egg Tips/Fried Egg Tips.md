@@ -3,11 +3,6 @@
 <html lang="en">
   <meta charset="UTF-8">
   <head>
-  <style>
-    h1 {
-      text-align; center;
-    }
-  </style>
   <body>
     <h1>NotFancy: Fried Egg Tips 🍳</h1>
   <main>
