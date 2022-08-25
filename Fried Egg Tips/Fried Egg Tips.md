@@ -3,7 +3,7 @@
 <html lang="en">
   <head>
   <meta charset="UTF-8">
-  <title>NotFancy: Fried Egg Tips 🍳</title>
+  <!--TODO: fix<title>NotFancy: Fried Egg Tips 🍳</title>-->
    <!--TODO: fix
     <style>
     h1 {
