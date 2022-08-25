@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 
 <html lang="en">
+  <head>
   <meta charset="UTF-8">
   <title>NotFancy: Fried Egg Tips 🍳</title>
-  <head>
     <style>
     h1 {
       text-align: center;
