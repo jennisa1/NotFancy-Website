@@ -63,7 +63,7 @@
     <section>
       <h2>Fried Egg Dishes</h2>
      <!--TODO: Image gallery here-->
-      </section>-->
+      </section>
     <section>
     <!--TODO: Favorite cooked egg style checkbox-->
     </section>
