@@ -2,6 +2,7 @@
 
 <html lang="en">
   <meta charset="UTF-8">
+  <title>NotFancy: Fried Egg Tips 🍳</title>
   <head>
     <style>
     h1 {
@@ -10,10 +11,9 @@
     </style>
   </head>
   <body>
-    <h1>NotFancy: Fried Egg Tips 🍳</h1>
   <main>
   <section>
-    <h2> The Art of Fried Eggs</h2>
+    <h1> The Art of Fried Eggs</h1>
     <a href=https://github.com/jennisa1/NotFancy-Website><img src="https://github.com/jennisa1/NotFancy-Website/blob/main/Images/Egg%20pan%202.png?raw=true" width="600 px" height="500 px" alt="Egg pan 2" img align="right"/></a>   
     <p> <!--TODO: add hook-->
       Ever wonder how to make fried eggs look and taste as good as they do in photos? Or do you share the common struggle of burning your eggs?
