@@ -3,6 +3,12 @@
 <html lang="en">
   <meta charset="UTF-8">
   <head>
+    <style>
+    h1 {
+      text-align: center;
+      }
+    </style>
+  </head>
   <body>
     <h1>NotFancy: Fried Egg Tips 🍳</h1>
   <main>
@@ -55,51 +61,10 @@
     <br/ >
     <section>
       <h2>Fried Egg Dishes</h2>
-      <!--TODO: Fix Image Gallery
-        <div class="gallery">
-  <a target="_blank" href="https://github.com/jennisa1/NotFancy-Website/blob/main/Images/Kimchi%20Fried%20Rice.png?raw=true">
-    <img src="https://github.com/jennisa1/NotFancy-Website/blob/main/Images/Kimchi%20Fried%20Rice.png?raw=true" alt="Kimchi Fried Rice" align="left" width="200" height="200">
-  </a>
-  <div class="gallery">Kimchi Fried Rice</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="https://github.com/jennisa1/NotFancy-Website/blob/main/Images/Fried%20Rice.png?raw=true">
-    <img src="https://github.com/jennisa1/NotFancy-Website/blob/main/Images/Fried%20Rice.png?raw=true" alt="Fried Rice" align="left" width="200"     height="200">       
-  </a>
-  <div class="gallery">Fried Rice</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="https://github.com/jennisa1/NotFancy-Website/blob/main/Images/Korean%20Egg%20Roll.jpg?raw=true">
-    <img src="https://github.com/jennisa1/NotFancy-Website/blob/main/Images/Korean%20Egg%20Roll.jpg?raw=true" alt="Korean Egg Roll" align="left" width="200" height="200">
-  </a>
-  <div class="gallery">Egg Roll</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="https://github.com/jennisa1/NotFancy-Website/blob/main/Images/Egg%20Toast.jpg?raw=true">
-    <img src="https://github.com/jennisa1/NotFancy-Website/blob/main/Images/Egg%20Toast.jpg?raw=true" alt="Egg Toast" img align="left" width="200" height="200">
-  </a>
-  <div class="gallery">Egg Toast</div>
-</div>
-
-  <div class="gallery">
-  <a target="_blank" href="https://github.com/jennisa1/NotFancy-Website/blob/main/Images/Egg%20Muffins.png?raw=true">
-    <img src="https://github.com/jennisa1/NotFancy-Website/blob/main/Images/Egg%20Muffins.png?raw=true" alt="Egg Muffins" img align="middle" width="200" height="200">
-  </a>
-  <div class="gallery">Egg Muffins</div>
-</div>
-
-  <div class="gallery">
-  <a target="_blank" href="https://github.com/jennisa1/NotFancy-Website/blob/main/Images/Avocado%20Egg%20Sandwich.jpg?raw=true">
-    <img src="https://github.com/jennisa1/NotFancy-Website/blob/main/Images/Avocado%20Egg%20Sandwich.jpg?raw=true" alt="Avocado Egg Sandwich" img align="right" width="200" height="200">
-  </a>
-  <div class="gallery">Avocado Egg Sandwich</div>
-</div>
+     <!--TODO: Image gallery here-->
       </section>-->
     <section>
-    <!--TODO: Favorite cooked egg style poll-->
+    <!--TODO: Favorite cooked egg style checkbox-->
     </section>
     <section>
     <!--TODO: Closing and contact info-->
