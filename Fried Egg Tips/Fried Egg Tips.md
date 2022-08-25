@@ -4,11 +4,12 @@
   <head>
   <meta charset="UTF-8">
   <title>NotFancy: Fried Egg Tips 🍳</title>
+   <!--TODO: fix
     <style>
     h1 {
       text-align: center;
       }
-    </style>
+    </style> --> 
   </head>
   <body>
   <main>
