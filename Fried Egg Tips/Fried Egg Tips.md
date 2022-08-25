@@ -62,7 +62,9 @@
     <br/ >
     <section>
       <h2>Fried Egg Dishes</h2>
-     <!--TODO: Image gallery here-->
+     <p>
+       To view entire project <a href="https://codepen.io/jennisa1/pen/oNqOxKP">here</a>
+                                 </p>                           
       </section>
     <section>
     <!--TODO: Favorite cooked egg style checkbox-->
